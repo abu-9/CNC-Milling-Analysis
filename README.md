@@ -15,7 +15,7 @@ This project investigates whether spindle current signals can reliably indicate 
 
 ## Dataset
 
-**Source:** University of Michigan SMART Lab — provided as `CNC MILLING DATASET - UNIVERSITY OF MICHIGAN SMART LAB.zip`
+**Source:** [UC Berkeley SMART Lab — Tool Wear Detection in CNC Milling](https://www.kaggle.com/datasets/shasun/tool-wear-detection-in-cnc-mill / provided as `CNC MILLING DATASET - UNIVERSITY OF MICHIGAN SMART LAB.zip`
 
 The dataset contains 18 CNC milling experiments performed on wax workpieces under varying feed rates and clamp pressures. Experiments are split into 8 unworn and 10 worn tool runs, with time-series data recorded at 100 ms intervals.
 
