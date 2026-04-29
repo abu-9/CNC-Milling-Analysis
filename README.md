@@ -9,7 +9,7 @@ A statistical and anomaly detection pipeline for identifying tool wear in CNC mi
 This project investigates whether spindle current signals can reliably indicate tool wear in CNC milling. It addresses two research questions:
 
 - **RQ1** — Are there statistically significant differences between spindle current signals of worn and unworn tools?
-- **RQ2** — Can unsupervised anomaly detection models learn normal spindle current behaviour and identify deviations associated with tool wear?
+- **RQ2** — Can anomaly detection models learn normal spindle current behaviour and identify deviations associated with tool wear?
 
 ---
 
