@@ -214,4 +214,4 @@ Anomaly detection models can learn normal spindle current behaviour and identify
 
 This project was conducted in collaboration with **TrackMyMachine**, a Sheffield-based Industrial IoT provider, as part of a study on scalable spindle current monitoring for predictive maintenance.
 
-Ethical approval for this project was granted by the **University of Sheffield Research Ethics Committee** (Application Reference: 071655, approved 13/11/2025). The study was confirmed to involve only existing, robustly anonymised data, raising no concerns regarding privacy or data sensitivity.
+Ethical approval for this project was granted by the **University of Sheffield**. The study was confirmed to involve only existing, robustly anonymised data, raising no concerns regarding privacy or data sensitivity.
